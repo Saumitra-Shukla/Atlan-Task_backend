@@ -1,6 +1,6 @@
 # Introduction
 
-![](https://github.com/Manvityagi/Atlan-Challenge---Long-Running-Task-Manager/blob/master/images/start.PNG)
+![](https://github.com/Saumitra-Shukla/Atlan-Task_backend/blob/master/images/start.PNG)
 
 **Task State Manager** is an implementation of an upload/download system in which the functionality of pausing/resuming/terminating the task at hand is poosible.
 
@@ -18,7 +18,7 @@
 
 ```
 # clone the repository to your local machine
-$ git clone https://github.com/Manvityagi/Atlan-Challenge---Long-Running-Task-Manager.git
+$ git clone https://github.com/Saumitra-Shukla/Atlan-Task_backend.git
 
 # navigate to the project's directory and install all the relevant dev-dependencies
 $ cd Atlan-Challenge---Long-Running-Task-Manager 
@@ -36,7 +36,7 @@ $ docker-compose exec web python ./runningTask/manage.py migrate
 
 ```
 # clone the repository to your local machine
-$ git clone https://github.com/Manvityagi/Atlan-Challenge---Long-Running-Task-Manager.git
+$ git clone https://github.com/Saumitra-Shukla/Atlan-Task_backend.git
 
 # navigate to the project's directory and install all the relevant dev-dependencies
 $ cd Atlan-Challenge---Long-Running-Task-Manager && pip install -r 
@@ -107,6 +107,6 @@ $ python manage.py runserver
 
 ## Demo Images
 
-![](https://github.com/Manvityagi/Atlan-Challenge---Long-Running-Task-Manager/blob/master/images/demo%60.PNG)
-![](https://github.com/Manvityagi/Atlan-Challenge---Long-Running-Task-Manager/blob/master/images/demo2.PNG)
-![](https://github.com/Manvityagi/Atlan-Challenge---Long-Running-Task-Manager/blob/master/images/demo3.PNG)
+![](https://github.com/Saumitra-Shukla/Atlan-Task_backend/blob/master/images/demo%60.PNG)
+![](https://github.com/Saumitra-Shukla/Atlan-Task_backend/blob/master/images/demo2.PNG)
+![](https://github.com/Saumitra-Shukla/Atlan-Task_backend/blob/master/images/demo3.PNG)
